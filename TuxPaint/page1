@@ -1,0 +1,76 @@
+<html>
+<head>
+<style>
+img {
+  padding: 15px;
+  align-items: center;
+}
+</style>
+    <title>Gas Leak</title>
+</head>
+<body style="background: darkgreen; color: white;">
+    <h1>Gas Leak Chapter 1</h1>
+
+    <img src="1st drawing" 
+        alt="Oops something went wrong! let me know!">
+
+    <!--how to forget the marquee 💚 -->
+    <marquee>Remember to brush your teeth!</marquee> 
+
+    <p>link to places you should be:</p>
+
+    <ul>
+        <li>discord</li>
+        <li>MSPFA</li>
+        <li>Twitter</li>
+    </ul>
+
+<br>
+<p> Its an early fall morning. Your name is marry, and you are asleep. Its been 4 months since you graduated college with a music degree. 
+</p>
+  <ul>
+    <li> You are unemployed
+    <li> You have 2 friends
+    <li> You have not killed anyone
+  </ul>
+
+    <img src="2nd drawing" 
+        alt="Marry sleeping in bed">
+    <img src="3rd drawing" 
+        alt="Oops something went wrong!">
+    <img src="4th drawing" 
+alt="Oops something went wrong!">
+    <img src="5th drawing" 
+alt="Oops something went wrong!">
+    <img src="6th drawing" 
+alt="Oops something went wrong!">
+    <img src="7th drawing" 
+alt="Oops something went wrong!">
+    <img src="8th drawing" 
+alt="Oops something went wrong!">
+    <img src="9th drawing" 
+alt="Oops something went wrong!">
+    <img src="10th drawing" 
+alt="Oops something went wrong!">
+    <img src="11th drawing" 
+alt="Oops something went wrong!">
+    <img src="12th drawing" 
+alt="Oops something went wrong!">
+    <img src="13th drawing" 
+alt="Oops something went wrong!">
+    <img src="14th drawing" 
+alt="Oops something went wrong!">
+    <img src="15th drawing" 
+alt="Oops something went wrong!">
+    <img src="16th drawing" 
+alt="Oops something went wrong!">
+
+<a href="page2"><img src="next" alt="Next page"></a>
+
+    <marquee>Chapter 2 coming soon! Chapter 2 coming soon! Chapter 2 coming soon! Chapter 2 coming soon! Chapter 2 coming soon! </marquee>
+
+
+
+</body>
+</html>
+
